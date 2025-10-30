@@ -1,0 +1,93 @@
+[
+    {
+        "id": "quinua-01",
+        "titulo": "Quinua 100gr",
+        "imagen": "./img/quinua/01.jpg",
+        "categoria": {
+            "nombre": "Quinuas",
+            "id": "quinuas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "quinua-02",
+        "titulo": "Quinua 200gr",
+        "imagen": "./img/quinua/02.jpg",
+        "categoria": {
+            "nombre": "Quinuas",
+            "id": "quinuas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "quinua-03",
+        "titulo": "Quinua 300gr",
+        "imagen": "./img/quinua/03.jpg",
+        "categoria": {
+            "nombre": "Quinuas",
+            "id": "quinuas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hierbabuena-01",
+        "titulo": "Hierbabuena 100gr",
+        "imagen": "./img/hierbas/01.jpg",
+        "categoria": {
+            "nombre": "Hierbas",
+            "id": "hierbas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hierbabuena-02",
+        "titulo": "Hierbabuena 200gr",
+        "imagen": "./img/hierbas/02.jpg",
+        "categoria": {
+            "nombre": "Hierbas",
+            "id": "hierbas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hierbabuena-03",
+        "titulo": "Hierbabuena 300gr",
+        "imagen": "./img/hierbas/03.jpg",
+        "categoria": {
+            "nombre": "Hierbas",
+            "id": "hierbas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sansevieria-01",
+        "titulo": "Sansevieria",
+        "imagen": "./img/algo/01.jpg",
+        "categoria": {
+            "nombre": "Algo",
+            "id": "algo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sansevieria-02 ",
+        "titulo": "Sansevieria x2",
+        "imagen": "./img/algo/02.jpg",
+        "categoria": {
+            "nombre": "Algo",
+            "id": "algo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sansevieria-03",
+        "titulo": "Sansevieria x4",
+        "imagen": "./img/algo/03.jpg",
+        "categoria": {
+            "nombre": "Algo",
+            "id": "algo"
+        },
+        "precio": 1000
+    }
+    
+]
